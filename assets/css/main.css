@@ -2706,6 +2706,10 @@ details {
 				line-height: 3em;
 			}
 
+			#logo a img {
+				height: 116px;
+			}
+
 		/* Banner */
 
 			#banner {
